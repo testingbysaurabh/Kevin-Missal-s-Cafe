@@ -1,6 +1,6 @@
-##View 👉: "https://kevin-missal-s-cafe.vercel.app/"
+##View 👉: https://kevin-missal-s-cafe.vercel.app/
 
-## Application Form response sheet : "https://docs.google.com/spreadsheets/d/1lwij0iknjNgsSK6Y5C9twupcGNlkMqgIMgfjI4x9o_I/edit?gid=0#gid=0"
+## Application Form response sheet : https://docs.google.com/spreadsheets/d/1lwij0iknjNgsSK6Y5C9twupcGNlkMqgIMgfjI4x9o_I/edit?gid=0#gid=0
 
 
 
