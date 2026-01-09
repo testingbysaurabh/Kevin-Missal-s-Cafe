@@ -2,7 +2,6 @@
 
 
 
-
 # Kevin Missal's Café – Franchise Web Landing Page
 
 ## 📖 Overview
